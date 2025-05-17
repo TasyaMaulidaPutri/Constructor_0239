@@ -35,5 +35,4 @@ void angka::cetakData()
         cout << i << " = "; 
         cin >> arr [i];
     }
-    cout << endl;
 }
