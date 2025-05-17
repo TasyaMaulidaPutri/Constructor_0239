@@ -30,3 +30,9 @@ mahasiswa :: mahasiswa(int iNim)
  {
     nama = iNama;
  }
+
+ mahasiswa :: mahasiswa(int iNim, string iNama)
+ {
+    nim = iNim;
+    nama = iNama;
+ }
